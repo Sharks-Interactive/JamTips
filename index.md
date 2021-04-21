@@ -46,7 +46,11 @@
   
   [Bosca Ceoil](https://boscaceoil.net/) - 8 Bit music maker (Online version is not *online* at the moment)
   
+  [Tonnoform](https://nikos1001.github.io/Tonnoform/) - Easy to use customizable desktop 8 bit music composer
+  
   [BeepBox](https://Beepbox.co) - Another web based 8 bit music maker
+  
+  [Abundant Music](https://pernyblom.github.io/abundant-music/index.html) - Procedural Music Generator
 
 # Code 👩‍💻
 
@@ -99,8 +103,12 @@
   [Inkscape](https://inkscape.org/) - Vector image editor
 
   [Fire Alpaca](https://firealpaca.com/) - Digital painting software
+  
+  [Spriter](https://brashmonkey.com/spriter-pro/) - Tool that allows for convential keyframe animation of sprites, rather than frame-by-frame
 
-## Level Design
+## Level Design/General Design
+
+  [Figma](https://www.figma.com/) - Figma is a web-based vector graphics editor and prototyping tool
 
   [LDtk](https://deepnight.itch.io/ldtk) - Hugely powerful 2D Level Editor
   
