@@ -28,7 +28,7 @@
 
 # Sound 🔊
 
-## Sound-Effects 🔉
+## Sound-Effects
 
   [ChipTone](https://sfbgames.itch.io/chiptone) - Tool for generating 8 bit chip tones.
 
@@ -36,7 +36,7 @@
 
   [Ideas for Audio Recording](https://docs.google.com/document/d/1wdehsasEozn6h3JQdyJjFgP70--Dk3WLQL-hU17j7Y0/edit?usp=sharing) - A list of objects that can be used to make       certain sounds
   
- ## Music 🎵
+## Music
  
   [CakeWalk](https://www.bandlab.com/products/cakewalk) - Powerful Digital Audio Workstation for people wanting more granular control
   
