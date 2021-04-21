@@ -1,18 +1,18 @@
 # Table of contents 📚
 
-[Inspiration](# Inspiration/Misc) 😲
+[Inspiration](# Inspiration/Misc 😲) 😲
 
-[Sound](# Sound) 🔊
+[Sound](# Sound 🔊) 🔊
 
-[Code](# Code) 👩‍💻
+[Code](# Code 👩‍💻) 👩‍💻
 
-[Art/Level Design](#Art/Level-Design) 🎨
+[Art/Level Design](# Art/Level-Design 🎨) 🎨
 
-[Sharing](# Sharing) 🤼
+[Sharing](# Sharing 🤼) 🤼
 
-[Preparing](# Preparing) ⏮
+[Preparing](# Preparing ⏮) ⏮
 
-[Planning/Colab](# Planning) ⌚
+[Planning/Colab](# Planning ⌚) ⌚
 
 # Inspiration/Misc 😲
 
@@ -68,11 +68,11 @@
 
 [Ludum Dare](https://ldjam.com/) - Don't forget you can always ask questions on the Ludum Dare website
 
-#Art/Level-Design 🎨
+# Art/Level-Design 🎨
 
 ## Making Art
 
-  ## Pixel/Voxel Art
+## Pixel/Voxel Art
   
   [Magica Voxel](https://ephtracy.github.io/) - Tool for making 3d Voxel Art
 
@@ -80,17 +80,17 @@
 
   [Aseprite](https://www.aseprite.org/) - 2D Sprite editor MUCH better of the two, but one of the only things on this list that is NOT FREE
 
-  ## 3D Modelling
+## 3D Modelling
 
   [Blender](https://www.blender.org/) - 3D Modelling, compositing, video editor and so much more swiss army knife
 
-  ## Image Editing
+## Image Editing
 
   [Gimp](https://www.gimp.org/) - Super powerful image editor
 
   [Photopea](https://www.photopea.com/) - Less powerful image editor but runs in your browser
 
-  ## Drawing
+## Drawing
 
   [Inkscape](https://inkscape.org/) - Vector image editor
 
@@ -100,7 +100,7 @@
 
   [Fire Alpaca](https://firealpaca.com/) - Digital painting software
 
-  ### Level Design
+## Level Design
 
   [LDtk](https://deepnight.itch.io/ldtk) - Hugely powerful 2D Level Editor
   
