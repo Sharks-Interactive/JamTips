@@ -1,15 +1,16 @@
 # Table of contents
 
-
-## Sound
-
-[Sound Effects](#Markdown)
+[Sound Effects](#Sound-Effects)
 
 # Sound
 
-## Sound Effects
+## Sound-Effects
 
-[ChipTone](https://sfbgames.itch.io/chiptone) - Tool for generating 8 bit chip tones.
+  [ChipTone](https://sfbgames.itch.io/chiptone) - Tool for generating 8 bit chip tones.
+
+  [Audacity](https://www.audacityteam.org/) - Hugely powerful audio editor
+
+  [Ideas for Audio Recording](https://docs.google.com/document/d/1wdehsasEozn6h3JQdyJjFgP70--Dk3WLQL-hU17j7Y0/edit?usp=sharing) - A list of objects that can be used to make       certain sounds
 
 # Art/Level Design
 
@@ -21,7 +22,7 @@
 
   [Piskel](https://www.piskelapp.com/) - 2D Sprite editor
 
-  [Aseprite](https://www.aseprite.org/) - MUCH better of the two, but one of the only things on this list that is NOT FREE
+  [Aseprite](https://www.aseprite.org/) - 2D Sprite editor MUCH better of the two, but one of the only things on this list that is NOT FREE
 
   ### 3D Modelling
 
@@ -58,33 +59,3 @@
 ## Time tracking
 
   [Working Hours](https://www.microsoft.com/en-us/p/workinghours-time-tracking-timesheet/9mv51b301wfd?activetab=pivot:overviewtab) - Simple punch in punch out
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sharks-Interactive/JamTips/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
