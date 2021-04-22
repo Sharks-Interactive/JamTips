@@ -32,7 +32,9 @@
 
   [ChipTone](https://sfbgames.itch.io/chiptone) - Tool for generating 8 bit chip tones.
 
-  [Audacity](https://www.audacityteam.org/) - Hugely powerful audio editor
+  [Audacity](https://www.audacityteam.org/) - Great audio editor for general needs
+  
+  [Reaper](https://www.reaper.fm/) - Much more powerful of the two but has an intersting situation regarding licenses, cost and legal iffyness. TLDR it's not realy 'free' per say so keep this in mind!
 
   [Ideas for Audio Recording](https://docs.google.com/document/d/1wdehsasEozn6h3JQdyJjFgP70--Dk3WLQL-hU17j7Y0/edit?usp=sharing) - A list of objects that can be used to make       certain sounds
   
@@ -43,6 +45,8 @@
   [BandLab](https://www.bandlab.com/) - Web Based DAW geared towards beginners by the same (sorta) people as CakeWalk.
   
   [LMMS](https://lmms.io/) - A lightweight DAW for intermediate users
+  
+  [Ardour](https://ardour.org/) - Yet another feature packed DAW, also well suited for single file audio editing
   
   [Bosca Ceoil](https://boscaceoil.net/) - 8 Bit music maker (Online version is not *online* at the moment)
   
@@ -100,7 +104,7 @@
 
   [Pen and Paper](https://support.apple.com/en-us/HT210336) - Don't forget pen and paper is a great tool for art as well! Sketch something throw it on your printer or use your     phone. There are plenty of modern aps and even native support for scanning documents. Then you can use something like GIMP to edit the resulting image into something you like.
 
-  [Inkscape](https://inkscape.org/) - Vector image editor
+  [Krita](https://krita.org/en/) - Digital painting program
 
   [Fire Alpaca](https://firealpaca.com/) - Digital painting software
   
