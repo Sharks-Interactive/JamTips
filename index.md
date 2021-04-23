@@ -31,6 +31,10 @@
 ## Sound-Effects
 
   [ChipTone](https://sfbgames.itch.io/chiptone) - Tool for generating 8 bit chip tones.
+  
+  [Bfxr](https://www.bfxr.net/) - Desktop only (until JS version comes out) 8 bit sound effect generator
+  
+  [Sxfr/jsfxr](https://sfxr.me/) - Web based sound 8-16 bit effect generator
 
   [Audacity](https://www.audacityteam.org/) - Great audio editor for general needs
   
