@@ -59,6 +59,8 @@
   [BeepBox](https://Beepbox.co) - Another web based 8 bit music maker
   
   [Abundant Music](https://pernyblom.github.io/abundant-music/index.html) - Procedural Music Generator
+  
+  [SunVox](https://warmplace.ru/soft/sunvox/) - Modular music synthesizer
 
 # Code 👩‍💻
 
@@ -91,6 +93,8 @@
   [Piskel](https://www.piskelapp.com/) - 2D Sprite editor
 
   [Aseprite](https://www.aseprite.org/) - 2D Sprite editor MUCH better of the two, but one of the only things on this list that is NOT FREE
+  
+  [LibreSprite](https://libresprite.github.io/) - 2D Sprite/Pixel art editor and animator
 
 ## 3D Modelling
 
@@ -121,6 +125,8 @@
   [LDtk](https://deepnight.itch.io/ldtk) - Hugely powerful 2D Level Editor
   
   [Tiled](https://www.mapeditor.org/) - 2D level editor with a focus on tilesets and pixel art
+  
+  [NetRadiant](https://netradiant.gitlab.io/) - Brush based level editor
 
 # Sharing 🤼
 
