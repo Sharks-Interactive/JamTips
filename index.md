@@ -1,18 +1,18 @@
 # Table of contents 📚
 
-[Inspiration](# Inspiration/Misc 😲) 😲
+[Inspiration](#inspirationmisc-) 😲
 
-[Sound](# Sound 🔊) 🔊
+[Sound](#sound-) 🔊
 
-[Code](# Code 👩‍💻) 👩‍💻
+[Code](#code-) 👩‍💻
 
-[Art/Level Design](# Art/Level-Design 🎨) 🎨
+[Art/Level Design](#artlevel-design-) 🎨
 
-[Sharing](# Sharing 🤼) 🤼
+[Sharing](#sharing-) 🤼
 
-[Preparing](# Preparing ⏮) ⏮
+[Preparing](#preparing-) ⏮
 
-[Planning/Colab](# Planning ⌚) ⌚
+[Planning/Colab](#planning-) ⌚
 
 # Inspiration/Misc 😲
 
@@ -25,6 +25,8 @@
 [Game Idea Generator](https://indiegamedev.net/2020/02/23/random-game-idea-generator/) - Pretty much does what it says!
 
 [UI Ideas](https://collectui.com/) - Stuck on your user interface? Peruse some of these
+
+### [Back to Top](#table-of-contents-) 🔝
 
 # Sound 🔊
 
@@ -62,6 +64,8 @@
   
   [SunVox](https://warmplace.ru/soft/sunvox/) - Modular music synthesizer
 
+### [Back to Top](#table-of-contents-) 🔝
+
 # Code 👩‍💻
 
 ## IDE
@@ -81,6 +85,8 @@
 [Stack Overflow](https://stackoverflow.com/) - You should know this one: Probably the best Q and A site for all your coding problems
 
 [Ludum Dare](https://ldjam.com/) - Don't forget you can always ask questions on the Ludum Dare website
+
+### [Back to Top](#table-of-contents-) 🔝
 
 # Art/Level-Design 🎨
 
@@ -128,6 +134,8 @@
   
   [NetRadiant](https://netradiant.gitlab.io/) - Brush based level editor
 
+### [Back to Top](#table-of-contents-) 🔝
+
 # Sharing 🤼
 
 [Giphy](https://giphy.com/) - Turn video into gifs in your browser
@@ -136,11 +144,15 @@
 
 [Carbon](https://carbon.now.sh/) - Share beautiful pictures of your code
 
+### [Back to Top](#table-of-contents-) 🔝
+
 # Preparing ⏮
 
 [Unnofficial Ludum Dare soundtrack](https://www.youtube.com/watch?v=5vxYUr9e-GY) - The best way to perapre-y!
 
 [Twitch streams](https://jammer.tv/) - Check out all the best game dev twitch streams
+
+### [Back to Top](#table-of-contents-) 🔝
 
 # Planning ⌚
 
@@ -165,3 +177,5 @@
   [Google Calendar](https://calendar.google.com/) - A simple easy to use calendar for planning visually how long things will take
 
   [Working Hours](https://www.microsoft.com/en-us/p/workinghours-time-tracking-timesheet/9mv51b301wfd?activetab=pivot:overviewtab) - Simple punch in punch out time tracking for    windows
+
+### [Back to Top](#table-of-contents-) 🔝
